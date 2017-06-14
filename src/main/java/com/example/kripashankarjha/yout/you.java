@@ -27,7 +27,7 @@ public class you extends YouTubeBaseActivity implements YouTubePlayer.OnInitiali
     public static  String VIDEO_ID = "bzSTpdcs-EI";
     public  static  YouTubePlayer yplayer;
     private ListView lv;
-    public String videourl[]={"bzSTpdcs-EI","lpdRqn6xwiM"};
+    public String videourl[]={"bzSTpdcs-EI","lpdRqn6xwiM"}; // use the name after = part (https://www.youtube.com/watch?v=huWbl-vIogc)
     public String videoDetail[]={"Channa Mereya...","Aye dil hai muskil..."};
 
 
